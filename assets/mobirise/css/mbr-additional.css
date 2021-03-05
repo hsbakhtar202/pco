@@ -3136,6 +3136,7 @@ a {
   margin-bottom: 2rem;
 }
 #custom-html-1n .reviews p {
+  font-family: 'Dosis';
   font-size: 12px;
   font-weight: bold;
 }
@@ -3160,9 +3161,11 @@ a {
   margin-left: 0.5rem;
 }
 #custom-html-1n .avatar__details .name {
+  font-family: 'Dosis';
   font-size: 14px;
 }
 #custom-html-1n .avatar__details span {
+  font-family: 'Dosis';
   font-weight: bold;
   color: #4d49ad;
 }
@@ -3183,6 +3186,7 @@ a {
   align-items: center;
 }
 #custom-html-1n .check-circle i {
+  font-family: 'Dosis';
   color: #fff;
   font-size: 8px;
 }
@@ -3204,14 +3208,17 @@ a {
   color: #4d49ad;
 }
 #custom-html-1n .review__text h3 {
+  font-family: 'Dosis';
   font-weight: bold;
   margin-top: 1rem;
 }
 #custom-html-1n .review__text p {
+  font-family: 'Dosis';
   margin: 0.5rem 0;
   max-width: 80%;
 }
 #custom-html-1n .date {
+  font-family: 'Dosis';
   color: #4d49ad;
   font-weight: bold;
 }
@@ -3226,6 +3233,7 @@ a {
   cursor: pointer;
 }
 #custom-html-1n .share span {
+  font-family: 'Dosis';
   margin-left: 3px;
 }
 #custom-html-1n .lik_dis {
